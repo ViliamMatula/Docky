@@ -2,6 +2,7 @@ Link na GIT manual:
 https://git-scm.com/book/cs/v2/V%C4%9Btve-v-syst%C3%A9mu-Git-Z%C3%A1klady-v%C4%9Btven%C3%AD-a-slu%C4%8Dov%C3%A1n%C3%AD
 
 Link na online RegExp:
+http://www.rexv.org/
 https://regex101.com/
 Link na ucenie regularnych vyrazov:
 https://www.root.cz/serialy/regularni-vyrazy/
