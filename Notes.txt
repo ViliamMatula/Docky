@@ -1,5 +1,5 @@
 Link na GIT manual:
-https://git-scm.com/book/cs/v2/V%C4%9Btve-v-syst%C3%A9mu-Git-Z%C3%A1klady-v%C4%9Btven%C3%AD-a-slu%C4%8Dov%C3%A1n%C3%AD
+https://git-scm.com/book/cs/v2/V%C4%9Btve-v-syst%C3%A9mu-Git-Vzd%C3%A1len%C3%A9-v%C4%9Btve
 
 Link na online RegExp:
 http://www.rexv.org/
